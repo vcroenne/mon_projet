@@ -1,9 +1,3 @@
 Voici le texte dans toto.txt
 <<<<<<< HEAD
-salut salut
-salut chat
-=======
-<<<<<<< HEAD
-salut les gars
->>>>>>> 8f0f07b (rajout de l’option -a)
->>>>>>> e3acf9b
+salut mon gars
